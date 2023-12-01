@@ -1,5 +1,5 @@
 # WhatsAppGPT
-<img src="https://github.com/meryemsakin/WhatsAppGPT/blob/main/whatsapgpt.png" width="100" height="100">
+<img src="https://github.com/meryemsakin/WhatsAppGPT/blob/main/whatsapgpt.png" width="400" height="400">
 
 ## Project Overview
 
