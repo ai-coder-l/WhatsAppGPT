@@ -25,7 +25,7 @@ The WhatsAppGPT Bot is an innovative solution that integrates OpenAI's powerful 
 
 To set up the WhatsAppGPT, follow these instructions:
 
-1.1 Install Conda and create a new environment:
+1 Install Conda and create a new environment:
 
     ```bash
     conda create --name venv python==3.10.9
@@ -34,7 +34,7 @@ To set up the WhatsAppGPT, follow these instructions:
 
 ### Or
 
-1.2 Set Up a Virtual Environment
+2 Set Up a Virtual Environment
 
      ```bash
     python -m venv venv
