@@ -1,5 +1,5 @@
 # WhatsAppGPT
-![WhatsAppGPT](https://github.com/meryemsakin/WhatsAppGPT/blob/main/whatsapgpt.png)
+<img src="https://github.com/meryemsakin/WhatsAppGPT/blob/main/whatsapgpt.png" width="100" height="100">
 
 ## Project Overview
 
