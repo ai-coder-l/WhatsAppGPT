@@ -1,5 +1,5 @@
 # WhatsAppGPT
-
+![WhatsAppGPT](URL_OF_THE_IMAGE)
 ## Project Overview
 
 The WhatsAppGPT Bot is an innovative solution that integrates OpenAI's powerful GPT model with WhatsApp, providing an interactive and intelligent chat experience. Designed to efficiently process and respond to user messages, this bot leverages the latest advancements in AI and natural language processing.
