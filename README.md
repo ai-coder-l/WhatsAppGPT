@@ -123,10 +123,6 @@ The **--reload** flag enables hot reloading so the server will automatically res
 
 ## TO DO
 
-cat >> README.md << 'EOF'
-
-## To-Do 
-
 - [x] Implement real-time chat interaction with WhatsApp users.
 - [x] Integrate OpenAI's GPT model for intelligent response generation.
 - [x] Establish a MongoDB database for message and user data storage.
