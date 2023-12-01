@@ -23,7 +23,7 @@ The WhatsAppGPT Bot is an innovative solution that integrates OpenAI's powerful 
 
 ## Installation
 
-To set up the LENA-ALPR system, follow these instructions:
+To set up the WhatsAppGPT, follow these instructions:
 
 1. Install Conda and create a new environment:
 
